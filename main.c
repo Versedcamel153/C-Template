@@ -2,4 +2,5 @@
 
 int main() {
     //code here
+    printf("Hello world");
 }
